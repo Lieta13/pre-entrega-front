@@ -16,4 +16,4 @@ Este proyecto fue realizado como parte de la pre-entrega del curso de desarrollo
 
 ## 🌐 Enlace al sitio
 
-[Ver sitio publicado](https://tuusuario.github.io/pre-entrega-front/)
+[Ver sitio publicado](https://lieta13.github.io/pre-entrega-front/)
